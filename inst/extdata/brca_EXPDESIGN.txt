@@ -1,0 +1,23 @@
+Patient Array	PID	BRCA1 v BRCA2 v Sporadic	BRCA1 V BRCA2	BRCA1 v Sporadic	BRCA2 v Sporadic	BRCA1 v notBRCA1	BRCA2 v notBRCA2	group	predictTest
+s1321	20	Sporadic				notBRCA1	notBRCA2	a	training
+s1996	1	BRCA1	BRCA1	BRCA1		BRCA1	notBRCA2	a	training
+s1822	5	BRCA1	BRCA1	BRCA1		BRCA1	notBRCA2	b	training
+s1714	3	BRCA1	BRCA1	BRCA1		BRCA1	notBRCA2	b	training
+s1224	7	BRCA1	BRCA1	BRCA1		BRCA1	notBRCA2	c	training
+s1252	2	BRCA1	BRCA1	BRCA1		BRCA1	notBRCA2	c	training
+s1510	4	BRCA1	BRCA1	BRCA1		BRCA1	notBRCA2	d	training
+s1900	10	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	d	training
+s1787	9	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	e	training
+s1721	8	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	e	training
+s1486	22	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	f	training
+s1572	16	Sporadic		Sporadic	Sporadic	notBRCA1	notBRCA2	f	training
+s1324	17	Sporadic		Sporadic	Sporadic	notBRCA1	notBRCA2	g	training
+s1649	15	Sporadic		Sporadic	Sporadic	notBRCA1	notBRCA2	g	training
+s1320	18	Sporadic		Sporadic	Sporadic	notBRCA1	notBRCA2	h	training
+s1542	19	Sporadic		Sporadic	Sporadic	notBRCA1	notBRCA2	h	training
+s1281	21	Sporadic		Sporadic	Sporadic	notBRCA1	notBRCA2	i	training
+s1905	6	BRCA1	BRCA1	BRCA1		BRCA1	notBRCA2	i	training
+s1816	13	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	j	predict
+s1616	14	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	j	predict
+s1063	11	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	k	predict
+s1936	12	BRCA2	BRCA2		BRCA2	notBRCA1	BRCA2	k	predict

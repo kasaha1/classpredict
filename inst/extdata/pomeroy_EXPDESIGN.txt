@@ -1,0 +1,91 @@
+Array	Dx	Medulo.Type	Medulo.Stage	Sex	Age.at.Dx	Survival..months.	SurvStatus	Chemo	AT.or.RT.Site	M.Stage	SurvStatusCode	Age.Code	Medulo.vs.Glio	Glio.vs.PNET	Rhabdo.vs.PNET	Medulo.vs.PNET	Medulo.vs.AT.or.RT	trainsurv	trainpred
+Brain_MD_1	Medulloblastoma	Classic	T4M1	M	8m	11	D	"V,C,Cx,VP"		>0	1	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_2	Medulloblastoma	Classic	T2M0	M	8yr10m	5	D	"V,C,Cx,VP"		0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_3	Medulloblastoma	Classic	T3M0	M	6yr	7	D	"V,C,Cx"		0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_4	Medulloblastoma	Classic	T3M3	M	5yr 3m	7	D	"V,C,Cx,VP"		>0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_5	Medulloblastoma	Classic	M3	M	38yr 2m	7	D	"V,C"		>0	1	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_6	Medulloblastoma	Classic	T4M0	F	7m	9	D	"V,C,Cx"		0	1	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_7	Medulloblastoma	Classic	T1M0	M	6yr 5m	14	D	"V,C,Cx"		0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_8	Medulloblastoma	Classic	T3bM1	M	6yr 1m	16	D	"V,C,Cx"		>0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_9	Medulloblastoma	Classic	M0	M	8yr	18	D	"V,C,Cx,VP"		0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_10	Medulloblastoma	Classic	M0	M	3yr 10m	18	D	"V,C,Cx"		0	1	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_11	Medulloblastoma	Classic	T2M1	M	8yr 2m	19	D	"V,C,Cx,VP,Ca,T,M"		>0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_12	Medulloblastoma	Classic	M0	F	3yr 9m	25	D	"V,C,Cx"		0	1	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_13	Medulloblastoma	Classic	T3M3	M	14yr 5m	26	D	"V,C,Cx"		>0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_14	Medulloblastoma	Desmoplastic	M0	M	6yr 3m	33	D	"V,C,CC"		0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_15	Medulloblastoma	Desmoplastic	T2MO	F	11yr 7m	38	D	"V,C,Cx,VP"		0	1	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_16	Medulloblastoma	Desmoplastic	T3M3	F	11yr 5m	39	D	"V,C,VP"		>0	1	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_17	Medulloblastoma	Classic	T3bM3	F	3yr 3m	39	D	"V,C,Cx"		>0	1	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_18	Medulloblastoma	Classic	T2M3	M	4yr 4m	42	D	"V,C,Cx"		>0	1	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_19	Medulloblastoma	Classic	M2	F	26yr 1m	65	D	"V,C,Cx,VP"		>0	1	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_20	Medulloblastoma	Classic	T3bM0	M	20yr 6m	92	D	"V,C"		0	1	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_21	Medulloblastoma	Classic	T2M0	F	23yr 3m	102	D	"V,C"		0	1	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_22	Medulloblastoma	Desmoplastic	M0	F	5yr 7m	24	A	"V,C,CC"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_23	Medulloblastoma	Desmoplastic	T4M0	M	1yr 4m	25	A	"V,C,Cx"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_24	Medulloblastoma	Classic	T3M0	M	10yr 10m	27	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_25	Medulloblastoma	Classic	M0	F	5yr 4m	28	A	"V,C,Cx,VP"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_26	Medulloblastoma	Classic	T2M3	M	1yr	33	A	"V,C,Cx,VP"		>0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_27	Medulloblastoma	Classic	M0	M	5yr 10m	34	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_28	Medulloblastoma	Desmoplastic	T4M0	M	6yr 1m	35	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_29	Medulloblastoma	Classic	T3M0	F	7yr 5m	35	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_30	Medulloblastoma	Desmoplastic	T3M0	F	11yr 9m	36	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_31	Medulloblastoma	Classic	M0	M	7yr 4m	39	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_32	Medulloblastoma	Desmoplastic	T2M0	M	10yr 11m	39	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_33	Medulloblastoma	Classic	T3bM0	M	12yr 9m	41	A	"V,C,Cx"		0	0	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_34	Medulloblastoma	Classic	T3M1	M	8yr 2m	42	A	"V,C,Cx"		>0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_35	Medulloblastoma	Desmoplastic	T3M0	F	2yr 3m	45	A	"V,C,Cx"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_36	Medulloblastoma	Classic	T3M0	M	5yr 6m	46	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_37	Medulloblastoma	Classic	T3M0	F	12yr 7m	51	A	"V,C,Cx"		0	0	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_38	Medulloblastoma	Desmoplastic	T3M1	F	7m	52	A	"V,C,Cx"		>0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_39	Medulloblastoma	Classic	T3M0	M	10yr 9m	53	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_40	Medulloblastoma	Desmoplastic	T4M3	M	3yr 4m	57	A	"V,C,Cx"		>0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_41	Medulloblastoma	Classic	T4M0	F	4yr 8m	60	A	"V,C,Cx,VP"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_42	Medulloblastoma	Classic	T3M3	M	6yr	62	A	"V,C,Cx,VP"		>0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_43	Medulloblastoma	Classic	T3M0	M	9yr 3m	64	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_44	Medulloblastoma	Classic	T3M0	M	5yr 3m	66	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_45	Medulloblastoma	Classic	T4M0	M	3yr 6m	68	A	"V,C,Cx,P"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_46	Medulloblastoma	Classic	T3M0	M	2yr 4m	68	A	"V,C,Cx"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_47	Medulloblastoma	Classic	T4M0	F	10yr 6m	70	A	"V,C,Cx"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_48	Medulloblastoma	Classic	T3bM0	M	5yr 5m	72	A	"V,C,Cx,VP,Ca"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_49	Medulloblastoma	Classic	T2M0	F	12yr 11m	74	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_50	Medulloblastoma	Classic	T3bM0	M	9yr 11m	79	A	"V,C,Cx"		0	0	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_51	Medulloblastoma	Classic	T3bM0	M	13yr 8m	79	A	"V,C,Cx"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_52	Medulloblastoma	Classic	T2M0	M	1yr 8m	80	A	"V,C,Cx"		0	0	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_53	Medulloblastoma	Desmoplastic	T2M0	F	5yr 2m	84	A	"V,C,Cx"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_54	Medulloblastoma	Classic	T4M4	F	1yr 5m	85	A	"V,C,Cx,VP,Ca,T,M"		>0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_55	Medulloblastoma	Classic	T3bM2	M	10yr 4m	87	A	"V,C,Cx,VP"		>0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_56	Medulloblastoma	Desmoplastic	T2M0	F	28yr	87	A	"V,C"		0	0	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_57	Medulloblastoma	Classic	T2M3	M	2yr 7m	97	A	"V,C,Cx"		>0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_58	Medulloblastoma	Classic	T1M0	M	3yr 7m	108	A	"V,C,Cx,VP"		0	0	0	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_59	Medulloblastoma	Classic	T3bM0	M	9yr 9m	130	A	"V,C"		0	0	1	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MD_60	Medulloblastoma	Desmoplastic	T3M0	F	2yr	24	A	"V,C,Cx"		0	0	2	Medulloblastoma			Medulloblastoma	Medulloblastoma	training	training
+Brain_MGlio_1	Malignant glioblastoma			F		NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				predict	predict
+Brain_MGlio_2	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_3	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_4	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_5	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_6	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_7	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_8	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_9	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_MGlio_10	Malignant glioblastoma					NA					NA	NA	Malignant glioblastoma	Malignant glioblastoma				exclude	exclude
+Brain_Rhab_1	AT/RT					NA			Brain		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_2	AT/RT					NA			extraCNS		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_3	AT/RT					NA			extraCNS		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_4	AT/RT					NA			Brain		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_5	AT/RT					NA			extraCNS		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_6	AT/RT					NA			extraCNS		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_7	AT/RT					NA			extraCNS		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_8	AT/RT					NA			Brain		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_9	AT/RT					NA			Brain		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Rhab_10	AT/RT					NA			Brain		NA	NA			AT/RT		AT/RT	exclude	training
+Brain_Ncer_1	Normal cerebellum					NA					NA	NA						exclude	exclude
+Brain_Ncer_2	Normal cerebellum					NA					NA	NA						exclude	exclude
+Brain_Ncer_3	Normal cerebellum					NA					NA	NA						exclude	exclude
+Brain_Ncer_4	Normal cerebellum					NA					NA	NA						exclude	exclude
+Brain_PNET_1	PNET					NA					NA	NA		PNET	PNET	PNET		exclude	exclude
+Brain_PNET_2	PNET					NA					NA	NA		PNET	PNET	PNET		exclude	exclude
+Brain_PNET_3	PNET					NA					NA	NA		PNET	PNET	PNET		exclude	exclude
+Brain_PNET_4	PNET					NA					NA	NA		PNET	PNET	PNET		exclude	exclude
+Brain_PNET_5	PNET					NA					NA	NA		PNET	PNET	PNET		exclude	exclude
+Brain_PNET_6	PNET					NA					NA	NA		PNET	PNET	PNET		exclude	exclude

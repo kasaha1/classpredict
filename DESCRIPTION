@@ -1,0 +1,15 @@
+Package: classpredict
+Title: Class Prediction with Mutiple Methods
+Version: 0.2
+Description: Implements the class prediction tool using multiple methods in ArrayTools
+Depends: R (>= 3.1.0)
+License: Same as BRB-ArrayTools
+        (https://brb.nci.nih.gov/BRB-ArrayTools/)
+Imports: ROC
+Author: BRB-ArrayTools team <arraytools@emmes.com>
+Maintainer: BRB-ArrayTools team <arraytools@emmes.com>
+RoxygenNote: 6.1.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2019-07-01 14:09:13 UTC; tchen
